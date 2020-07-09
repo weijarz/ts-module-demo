@@ -1,0 +1,13 @@
+{
+  "name": "ts-module-demo",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "weijarz <weijarz@gmail.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
+}
